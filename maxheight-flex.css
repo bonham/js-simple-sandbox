@@ -1,0 +1,21 @@
+#xx {
+  box-sizing: border-box;
+}
+
+#div1 {
+  border: solid black;
+  height: 100vh;
+  display: flex;
+} 
+
+#div2 {
+  border: solid red;
+  flex: 1;
+}
+body,html {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+}
